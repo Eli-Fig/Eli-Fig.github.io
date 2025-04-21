@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/Eli-Fig/Eli-Fig.github.io/raw/main/Eli%20Fig%20CV%20Final%20(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
