@@ -83,20 +83,20 @@ const CONFIG = {
       'https://github.com/Eli-Fig/Eli-Fig.github.io/raw/main/Eli%20Fig%20CV%20Final%20(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'SPAdes',
+    'Abyss',
+    'Ubuntu',
+    'R',
+    'R Studio',
+    'Image J',
+    'Prokka',
+    'Qiime',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Dfast',
+    'RAST',
+    'Blast',
+    'barrnap',
+    'QUAST',
   ],
   experiences: [
     {
@@ -124,10 +124,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'CSU Stanislaus',
+      degree: 'BS Biology',
+      from: '2021',
+      to: '2025',
     },
     {
       institution: 'Institution Name',
