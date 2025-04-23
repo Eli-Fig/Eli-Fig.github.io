@@ -122,18 +122,12 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  educations: [
+  education: [
     {
       institution: 'CSU Stanislaus',
-      degree: 'BS Biology',
+      degree: 'BS Biological Sciences',
       from: '2021',
       to: '2025',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
     },
   ],
   publications: [
