@@ -100,18 +100,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'CSU Stanislaus Career Center',
+      position: 'Lead Student Assistant',
       from: 'September 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Undergraduate Research, Dr. Jeffrey Scales, CSU Stanislaus',
+      position: 'Student Researcher',
+      from: 'January 2024',
+      to: 'Present',
+      companyLink: '',
     },
   ],
   certifications: [
