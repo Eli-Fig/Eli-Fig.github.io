@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'This presentation looks at how far our knowledge of prehistoric organisms has evolved by looking at the documentary Prehistoric Planet. It dives into the science of prehistoric creatures such as the tuarangisaurus and the t-rex.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/Eli-Fig/Eli-Fig.github.io/raw/main/Screenshot%20(163).png',
+          link: 'https://github.com/Eli-Fig/Eli-Fig.github.io/raw/main/Prehistoric%20Planet%20(2)_compressed.pdf',
         },
         {
           title: 'Project Name',
