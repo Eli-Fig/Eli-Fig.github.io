@@ -33,9 +33,9 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Prehistoric Planet Episode 1 Analysis Presentation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This presentation looks at how far our knowledge of prehistoric organisms has evolved by looking at the documentary Prehistoric Planet. It dives into the science of prehistoric creatures such as the tuarangisaurus and the t-rex.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
