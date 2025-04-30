@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/Eli-Fig/Eli-Fig.github.io/raw/main/Prehistoric%20Planet%20(2)_compressed.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Yersinia pestis Disease Paper',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This paper takes an expansive look at the bacteria Yersinia pestis including that it causes plague.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/Eli-Fig/Eli-Fig.github.io/raw/main/Screenshot%20(164).png',
+          link: 'https://github.com/Eli-Fig/Eli-Fig.github.io/raw/main/Disease%20Paper%20-%20Yersinia%20pestis%20-%20Final%20(1).pdf',
         },
       ],
     },
