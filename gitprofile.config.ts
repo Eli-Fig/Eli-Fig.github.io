@@ -140,15 +140,6 @@ const CONFIG = {
       description:
         'Here, we report the genome of Maricaulis maris DSM 4734 isolated from filtered polluted seawater. The whole genome was 3568848 bp long, with a GC content of 63.14%, and resistance to 12 antibiotics. This is a manuscript in submission. ',
     },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum',
-    },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
